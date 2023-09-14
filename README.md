@@ -1,1 +1,1 @@
-Projeti NLW aplicação de ipload IA, geração de tirulos e trencrições criativas através de videos do youtube# NLW
+Projet NLW aplicação de ipload IA, geração de títulos e trancrições criativas através de vídeos
