@@ -28,7 +28,7 @@ export function App() {
       temperature,
     },
     headers: {
-      'Content-Type': 'application/json',
+      'Content-type': 'application/json',
     }
   })
 
@@ -39,7 +39,7 @@ export function App() {
 
         <div className="flex items-center gap-3">
           <span className="text-sm text-muted-foreground">
-            Desenvolvido com 💜 no NLW da Rocketseat
+            Desenvolvido por Franklin Marden no NLW da Rocketseat
           </span>
 
           <Separator orientation="vertical" className="h-6" />
@@ -103,14 +103,14 @@ export function App() {
 
             <div className="space-y-4">
               <Label>Temperatura</Label>
-              <Slider
+              <Slider className=" bg-white"
                 min={0}
                 max={1}
-                step={0.1}
+                step={0.01}
                 value={[temperature]}
                 onValueChange={value => setTemperature(value[0])}
               />
-              <span className="block text-sm text-muted-foreground italic leading-relaxed">
+              <span className="block text-sm text-muted-foreground italic leading-relaxed ">
                 Valores mais altor tendem a deixar o resultado mais criativo e com possíveis erros.
               </span>
             </div>
