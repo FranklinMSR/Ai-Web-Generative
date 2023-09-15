@@ -13,7 +13,7 @@ export async function generateAICompletionRoute(app: FastifyInstance) {
             temperature: z.number().min(0).max(1).default(0.5), 
         })
     
-        const { videoId, prompt, temperature } = bodySchema.parse(request.body)
+        const { videoId, prompt, temperature } = bodySchema.parse(req.body)
 
         const video = await prisma.video.findUniqueOrThrow({
             where: {
