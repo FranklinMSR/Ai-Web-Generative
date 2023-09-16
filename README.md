@@ -1,1 +1,2 @@
-Projet NLW aplicação de ipload IA, geração de títulos e trancrições criativas através de vídeos
+💻 Projeto
+Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
