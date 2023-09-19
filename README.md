@@ -1,6 +1,5 @@
-![icons8-chatbot-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/2fa5b586-fcc5-4272-930f-2d703adedbaf) Ai Web Creative
+# ![icons8-chatbot-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/2fa5b586-fcc5-4272-930f-2d703adedbaf) Ai Web Creative
 
-![img readme](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/c2a7981f-5cd7-4d3c-9254-6d69a242a097)
 
 https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/af75e44f-20fa-4e50-9319-76929fa63ba8
 
