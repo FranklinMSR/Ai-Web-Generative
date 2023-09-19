@@ -1,3 +1,5 @@
+
+![upload ai web](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/58814b0b-897d-4d35-9b9a-7a4c9afb3b0e)
 # ![icons8-chatbot-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/2fa5b586-fcc5-4272-930f-2d703adedbaf) Ai Web Creative
 ![Gif mostrando o projeto.](public/aplication.gif)
 ## ![icons8-notebook-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/d1e28924-a173-4d23-b594-e347e218f22b) Sobre o projeto
@@ -27,12 +29,12 @@ $ git clone https://github.com/FranklinMSR/Ai-Web-Creative.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ai-Web-Creative
-# instale todos os plugins e dependencias necessárias de todas as ferramentas ultilizadas descritas acima (altere os comandos de instalação para pnpm se optar pelo pnpm) 
+# instale todos os plugins, bibliotecas e dependencias de todas as ferramentas utilizadas descritas acima (altere os comandos de instalação para pnpm se optar pelo pnpm) 
 $ pnpm install
 # Inicie a aplicação web
 $ pnpm run dev
 # Inicie o servidor
-$ pnpm run server
+$ pnpm run dev
 ```
 ## Licença
 Este projeto está sob a licença MIT.
