@@ -1,6 +1,10 @@
-![img readme](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/9f944d40-027d-4269-81cc-2d493a27bd61)
+![icons8-chatbot-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/2fa5b586-fcc5-4272-930f-2d703adedbaf) Ai Web Creative
 
-# ![icons8-chatbot-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/2fa5b586-fcc5-4272-930f-2d703adedbaf) Ai Web Creative
+![img readme](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/c2a7981f-5cd7-4d3c-9254-6d69a242a097)
+
+https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/af75e44f-20fa-4e50-9319-76929fa63ba8
+
+
 ![Gif mostrando o projeto.](public/aplication.gif)
 ## ![icons8-notebook-94](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/d1e28924-a173-4d23-b594-e347e218f22b) Sobre o projeto
 Aplicação web que gera títulos e descrições criativas através de arquivos de vídeos, utilizando API da OpenAI. Esse projeto pode ser ajustado para as mais diversas finalidades. O objetivo principal é mostrar como é feita a integração entre inteligencia artificial e aplicação através de uma linguegem de programação, ferramentas e tecnologias disponíveis, e as diversas possibilidades de aplicação.
