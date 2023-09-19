@@ -9,6 +9,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - ![icons8-vite-48](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/dced3f95-0981-460f-b735-c5a0e9a615ef) Vite
 - ![icons8-reagir-40](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/a695dc3b-72eb-4f77-8e49-b7674e15c9c4) React
 - ![icons8-prisma-orm-50](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/2799c126-7ca1-4bd7-81f3-5aac908f519a) Prisma
+- ![fastify](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/b37f6d00-2834-410c-8344-f4d28d987d4b) Fastify Multipart
+- ![icons8-tailwind-css-48](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/72d4f54a-c788-494d-84d4-cae0f3923eea) Tailwind CSS
 - ![icons8-html-48](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/f622e71c-8085-4af7-a83b-0f369b3b8b9e)![icons8-css-48](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/02d2184c-0fc6-4600-9fbc-1ef486f141fb) HTML/CSS
 - ![icons8-typescript-48](https://github.com/FranklinMSR/Ai-Web-Creative/assets/127708250/4208d50f-0a4f-418e-abdf-3d8f73c78c9f) TypeScript
 - ![icons8-javascript-48](https://github.com/FranklinMSR/Web-Shorts-Summary/assets/127708250/7273f996-6de5-402f-a3bf-ff1af0ced09b) JavaScript
@@ -25,7 +27,7 @@ $ git clone https://github.com/FranklinMSR/Ai-Web-Creative.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ai-Web-Creative
-# Instale as dependências
+# instale todos os plugins e dependencias necessárias de todas as ferramentas ultilizadas descritas acima (altere os comandos de instalação para pnpm se optar pelo pnpm) 
 $ pnpm install
 # Inicie a aplicação web
 $ pnpm run dev
