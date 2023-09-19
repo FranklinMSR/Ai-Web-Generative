@@ -38,4 +38,4 @@ $ pnpm run dev
 ```
 ## Licença
 Este projeto está sob a licença MIT.
-Feito com por **Franklin Marden**! 👋🏻 [Get in touch!](https://github.com/FranklinMSR)
+Feito por **Franklin Marden**! 👋🏻 [Get in touch!](https://github.com/FranklinMSR)
